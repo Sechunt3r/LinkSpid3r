@@ -15,7 +15,7 @@ Crawnix currently supported Python3.x.
 
 # Installation on Linux:
 ```sh
-$ sudo pip install -r requirements.txt --user
+$ sudo pip3 install -r requirements.txt --user
 ```
 
 # Features :
