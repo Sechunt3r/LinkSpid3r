@@ -1,0 +1,4 @@
+bs4
+lxml
+pyfiglet
+win_unicode_console
